@@ -16,3 +16,4 @@ workflows:
               only:
                 - master
                 - develop
+                - circleci-project-setup
